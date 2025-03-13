@@ -10,8 +10,8 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <sourceJdk>21</sourceJdk>  <!-- Changed to Java 21 for better stability -->
-        <targetJdk>21</targetJdk>
+        <sourceJdk>17</sourceJdk>  <!-- Changed to Java 21 for better stability -->
+        <targetJdk>17</targetJdk>
         <thucydides.version>1.8.4</thucydides.version>
     </properties>
 
