@@ -15,7 +15,7 @@
         <surefire.version>3.0.0-M7</surefire.version>
         <maven.test.failure.ignore>true</maven.test.failure.ignore>
     </properties>
-
+<!-- just added the comments to check the poll scm -->
          
     <dependencies>
         <!-- JUnit 5 -->
